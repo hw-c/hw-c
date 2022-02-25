@@ -1,4 +1,4 @@
--- Hello, this is hw-c! - Do not ask why I picked this name. - I am interested in Lua and C.\n
+-- Hello, this is hw-c! - Do not ask why I picked this name. - I am interested in Lua and C.
 
 <!---
 hw-c/hw-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
